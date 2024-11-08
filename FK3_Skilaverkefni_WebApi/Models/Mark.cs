@@ -13,5 +13,6 @@ namespace FK3_skilaverkefni_EF_Core.Models
         public required List<Subject> Subject_id { get; set; }
         public DateTime Date { get; set; }
         public int Grade { get; set; }
+
     }
 }
